@@ -89,5 +89,7 @@ Around 66 million years ago, a catastrophic event—widely believed to be a mass
 Some consider Barnum Brown, who began his career at the American Museum of Natural History in 1897, to be one of the greatest dinosaur hunters of the late 19th and early 20th centuries. He began his career at the American Museum of Natural History in 1897. Many of his greatest discoveries, including the first specimens of Tyrannosaurus rex ever found, are on display in the Museum’s dinosaur halls.
 
 There are several theories as to what may have contributed to the mass extinction of non-avian dinosaurs and other species at the end of the Cretaceous Period. It is certain that a massive asteroid or comet struck Earth during this time, causing a dramatic shift in Earth’s climate. Some scientists speculate that this impact had catastrophic consequences for life on Earth. But other factors, including changing sea levels and large-scale volcanic activity, may also have played a significant role in this mass extinction.
+Contrary to what many people think, not all dinosaurs lived during the same geological period. Stegosaurus, for example, lived during the Late Jurassic Period, about 150 million years ago. Tyrannosaurus rex lived during the Late Cretaceous Period, about 72 million years ago. Stegosaurus was extinct for 66 million years before Tyrannosaurus walked on Earth.
+
 
 
