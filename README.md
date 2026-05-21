@@ -82,14 +82,3 @@ Cube
 ## RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
 
-
-Dinosaurs were a highly diverse group of reptiles that first appeared roughly 245 million years ago. Ruling the Earth for over 160 million years, they ranged from tiny, chicken-sized predators to massive, long-necked herbivores. Today, scientists classify modern birds as living dinosaurs.
-
-Around 66 million years ago, a catastrophic event—widely believed to be a massive asteroid strike off the coast of the modern-day Yucatán Peninsula—triggered drastic global climate changes. This Cretaceous-Paleogene (K-Pg) extinction event wiped out all non-avian dinosaur species. However, a small lineage of feathered dinosaurs survived, evolved, and eventually diversified into the birds we see today.
-Some consider Barnum Brown, who began his career at the American Museum of Natural History in 1897, to be one of the greatest dinosaur hunters of the late 19th and early 20th centuries. He began his career at the American Museum of Natural History in 1897. Many of his greatest discoveries, including the first specimens of Tyrannosaurus rex ever found, are on display in the Museum’s dinosaur halls.
-
-There are several theories as to what may have contributed to the mass extinction of non-avian dinosaurs and other species at the end of the Cretaceous Period. It is certain that a massive asteroid or comet struck Earth during this time, causing a dramatic shift in Earth’s climate. Some scientists speculate that this impact had catastrophic consequences for life on Earth. But other factors, including changing sea levels and large-scale volcanic activity, may also have played a significant role in this mass extinction.
-Contrary to what many people think, not all dinosaurs lived during the same geological period. Stegosaurus, for example, lived during the Late Jurassic Period, about 150 million years ago. Tyrannosaurus rex lived during the Late Cretaceous Period, about 72 million years ago. Stegosaurus was extinct for 66 million years before Tyrannosaurus walked on Earth.
-
-
-
