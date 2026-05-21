@@ -83,3 +83,6 @@ Cube
 Thus, the cube of the given data is calculated using 8051 Keil.
 
 
+Dinosaurs were a highly diverse group of reptiles that first appeared roughly 245 million years ago. Ruling the Earth for over 160 million years, they ranged from tiny, chicken-sized predators to massive, long-necked herbivores. Today, scientists classify modern birds as living dinosaurs.
+
+Around 66 million years ago, a catastrophic event—widely believed to be a massive asteroid strike off the coast of the modern-day Yucatán Peninsula—triggered drastic global climate changes. This Cretaceous-Paleogene (K-Pg) extinction event wiped out all non-avian dinosaur species. However, a small lineage of feathered dinosaurs survived, evolved, and eventually diversified into the birds we see today.
